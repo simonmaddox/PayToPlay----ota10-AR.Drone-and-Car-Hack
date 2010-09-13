@@ -1,0 +1,22 @@
+TARDroneEngine
+v7
+r1
+cCheck dependencies
+
+N/Users/simon/Downloads/release-1_0_4_ARDrone_Version_20100716_1_0_4_RC/ControlEngine/iPhone/build/ARDroneEngine.build/ARM-debug/ARDroneEngine.build/Script-6871E1751160E86F00CFEEC8.sh
+c00000000000000000000000000000000
+t2
+s0
+
+NARM-debug/libARDroneEngine.a
+c00000000000000000000000000000000
+t2
+s0
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305889351#305889351#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos3.0'1(4@58"error: There is no SDK with the name or path 'iphoneos3.0'305889351#18446744073709551615#0#0(1@0"0(0#1#0"8644577376#0"0#
+
+CPhaseScriptExecution CopyLibraries /Users/simon/Downloads/release-1_0_4_ARDrone_Version_20100716_1_0_4_RC/ControlEngine/iPhone/build/ARDroneEngine.build/ARM-debug/ARDroneEngine.build/Script-6871E1751160E86F00CFEEC8.sh
+r0
+
